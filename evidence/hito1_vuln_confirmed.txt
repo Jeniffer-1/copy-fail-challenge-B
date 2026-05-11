@@ -1,0 +1,5 @@
+=== HITO 1 ===
+Fecha: $(date)
+Hostname: $(hostname)
+Kernel: $(uname -r)
+Usuario: $(id)
